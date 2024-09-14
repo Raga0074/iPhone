@@ -1,8 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# iPhone 15 pro advertising page lookalike
 
-Currently, two official plugins are available:
+**The project was developed keeping in mind the animatic approach of the 
+ iPhone and making a replica of the page. This project helped me to understand the generic aspect of the technologies used by the company.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ __The technologies used in the project are:__
+
+- React.js
+- Tailwind CSS
+- Three.js
+
+
+***To clone the project into your system these are the steps to be followed:***
+
+1. [clone the repositories:](https://github.com/Raga0074/iPhone.git)
+   - Click the above link or clone using GitHub Desktop
+
+2. go to your terminal and run the following command:
+   - cd iPhone
+   - npm install(To install dependencies)
+   - npm run dev(To run the project on your local server)
